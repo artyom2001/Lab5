@@ -5,8 +5,8 @@
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+[Link to Published Site](https://artyom2001.github.io/Lab5/)
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+[Link to the Latest Issue](https://github.com/artyom2001/github-actions-for-ci/issues/7)
